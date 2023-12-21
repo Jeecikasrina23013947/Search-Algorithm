@@ -42,7 +42,6 @@ if(result == -1):
 else:
     print(array)
     print("Element found at index: ",result)
-
 ```
 ii)	# Find the element in a list using Binary Search(Iterative Method).
 ```python
@@ -72,7 +71,6 @@ if(result==-1):
 else:
     print(array)
     print("Element found at index: ",result)
-
 ```
 iii)	# Find the element in a list using Binary Search (recursive Method).
 ```python
@@ -101,7 +99,6 @@ if(result==-1):
 else:
     print(arr)
     print("Element found at index: ",result)
- 
 ```
 ## Sample Input and Output
 i)	#Use a linear search method to match the item in a list.
